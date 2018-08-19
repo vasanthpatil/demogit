@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Xola Test Automation Test Suite">
+
+
+	<test name="Xola test cases">
+		<classes>
+			<class name="com.xola.qa.testcases.XolaBookingPageTest"></class>
+			<class name="com.xola.qa.testcases.XolaPaymentpageTest"></class>
+			<class name="com.xola.qa.testcases.XolaThankyouPageTest"></class>
+
+			
+
+		</classes>
+	</test>
+</suite>
